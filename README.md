@@ -30,19 +30,5 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
 </p>
 
-<div style="display: flex; justify-content: space-between;">
 
-    <p align="left">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=minhajhasan-dev&show_icons=true&locale=en&layout=compact" alt="minhajhasan-dev" />
-    </p>
-
-    <p align="center">
-        &nbsp;<img src="https://github-readme-stats.vercel.app/api?username=minhajhasan-dev&show_icons=true&locale=en" alt="minhajhasan-dev" />
-    </p>
-
-    <p align="right">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=minhajhasan-dev&" alt="minhajhasan-dev" />
-    </p>
-
-</div>
 
