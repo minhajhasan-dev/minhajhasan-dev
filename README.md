@@ -33,12 +33,14 @@
 
 ## 📊 My statistics 
 
-
-<center> 
+<div style="text-align: center;">
+<div>
 | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=minhajhasan-dev&theme=tokyonight&card_width=400&hide_border=true?user=&mode=weekly)](https://git.io/streak-stats) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=minhajhasan-dev&theme=tokyonight&&card_width=500) |
 | --- | --- |
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=minhajhasan-dev&theme=tokyonight) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=minhajhasan-dev&theme=tokyonight&utcOffset=8) |
-</center>
+</div>
+</div>
+
 
 [![Minhaj Hasan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=minhajhasan-dev&theme=github)](https://github.com/minhajhasan-dev/github-readme-activity-graph)
 
