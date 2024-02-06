@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Front End Development**
 
-- 💬 Ask me about **HTML,CSS,Javascript**
+- 💬 Ask me about **HTML, CSS, Javascript**
 
 - 📫 How to reach me **minhajhasan.dev@gmail.com**
 
@@ -15,11 +15,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/minhajhasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="minhajhasan" height="30" width="40" /></a>
-<a href="https://twitter.com/minhajhasan_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="minhajhasan_dev" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/minhajul-hasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="minhajul-hasan" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/minhaj-hasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="minhaj-hasan" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/14925687/minhaj-hasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="minhaj-hasan" height="30" width="40" /></a>
 <a href="https://fb.com/minhajhasan117" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="minhajhasan117" height="30" width="40" /></a>
-<a href="https://instagram.com/minhajhasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="minhajhasan" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -29,4 +27,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=minhajhasan-dev&show_icons=true&locale=en" alt="minhajhasan-dev" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=minhajhasan-dev&" alt="minhajhasan-dev" /></p>****
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=minhajhasan-dev&" alt="minhajhasan-dev" /></p>
