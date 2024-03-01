@@ -29,7 +29,6 @@
   
 </p>
 
-
 ## 📊 My statistics 
 
 
@@ -41,7 +40,6 @@
 
 
 [![Minhaj Hasan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=minhajhasan-dev&theme=github)](https://github.com/minhajhasan-dev/github-readme-activity-graph)
-
 
 <!-- RAINBOW LINE BOT -->
 <img src="https://github.com/Nahid4306053/Nahid4306053/blob/main/line-neon.gif" width="100%">
