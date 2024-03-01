@@ -29,9 +29,6 @@
   
 </p>
 
-## #30NitesOfCode:
-  [Check out my progress!](https://www.codedex.io/@minhajhasan/30-nites-of-code)  
-  ![@minhajhasan #30NitesOfCode](https://www.codedex.io/api/petStatus?user=minhajhasan)
 
 ## 📊 My statistics 
 
