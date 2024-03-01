@@ -28,6 +28,9 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
   
 </p>
+## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@minhajhasan/30-nites-of-code)  
+  ![@minhajhasan #30NitesOfCode](https://www.codedex.io/api/petStatus?user=minhajhasan)
 
 ## 📊 My statistics 
 
