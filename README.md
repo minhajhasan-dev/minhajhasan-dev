@@ -28,10 +28,10 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
   
 </p>
+
 ## #30NitesOfCode:
   [Check out my progress!](https://www.codedex.io/@minhajhasan/30-nites-of-code)  
   ![@minhajhasan #30NitesOfCode](https://www.codedex.io/api/petStatus?user=minhajhasan)
-
 ## 📊 My statistics 
 
 
@@ -43,6 +43,7 @@
 
 
 [![Minhaj Hasan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=minhajhasan-dev&theme=github)](https://github.com/minhajhasan-dev/github-readme-activity-graph)
+
 
 <!-- RAINBOW LINE BOT -->
 <img src="https://github.com/Nahid4306053/Nahid4306053/blob/main/line-neon.gif" width="100%">
